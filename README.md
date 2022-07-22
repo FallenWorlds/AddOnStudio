@@ -1,7 +1,17 @@
-# AddOnStudio
+# AddOn Studio
 
 The Official GitHub for AddOn Studio
 
+AddOn Studio is an editor for specialized runtime environments, games, and other platforms, like Solar2D and World of Warcraft.
+
+AddOn Studio features a modern sophisticated IDE, a Lua editor, specialized project management, with support for Curse and Git repositories.
+
+Major editions:
+* AddOn Studio for World of Warcraft
+* AddOn Studio for WildStar
+* AddOn Studio for Solar2d
+
+# Links
 
 Main site: https://addonstudio.fallenworlds.org
 
