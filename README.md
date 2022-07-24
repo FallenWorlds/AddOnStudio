@@ -7,7 +7,7 @@ AddOn Studio is an editor for specialized runtime environments, games, and other
 Major editions:
 * AddOn Studio for World of Warcraft
 * AddOn Studio for WildStar
-* AddOn Studio for Solar2d
+* AddOn Studio for Solar2D
 
 # Links
 
