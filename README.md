@@ -11,12 +11,12 @@ Major editions:
 
 # Links
 
-Main site: https://addonstudio.fallenworlds.org
+Main site: https://addonstudio.org
 
-Discord: https://discord.gg/eAGb7Rc
+Support: https://addonstudio.org/support
 
-Twitter: https://twitter.com/AddonStudioWoW
+Discord: https://addonstudio.org/discord<br/>
+Twitter: https://addonstudio.org/wow/twitter
 
 Formal issue reporting or to offer suggestions:
-* The old support site: https://fallenworlds.org/addonstudio/wow/support
-* Or here on GitHub: https://github.com/FallenWorlds/AddOnStudio/issues
+* Here on GitHub: https://addonstudio.org/wow/issues
